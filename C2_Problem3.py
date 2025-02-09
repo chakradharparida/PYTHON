@@ -1,0 +1,5 @@
+a= input("Enter the value of a : ")
+b=int(a)
+c=bool(a)
+print(type(b))
+print(type(c))
